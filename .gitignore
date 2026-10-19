@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+regenerated/
+instances/*/
+Census2020_sources/
+NDR_author_sources/
